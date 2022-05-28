@@ -1,0 +1,206 @@
+{
+  "Header": {
+    "title": "Get Better Care For Your Health",
+    "paragraph": "One-stop shop for all IT services needs of any customer in Healthcare Industry."
+  },
+  "About": {
+    "paragraph": "Welcome to ABC Hospital, your number one source for all things services. We're dedicated to providing you the best of service, with a focus on dependability customer service.We're working to turn our passion for Health Care into a booming service. We hope you enjoy our products as much as we enjoy offering them to you.",
+    "Why": [
+      "Patient Appointment for OPD",
+      "Patient Admission for IPD",
+      "Patient Billing & Accounting",
+      "Prescription Management",
+      "Supports corporate clients, insurance and TPA"
+    ],
+    "Why2": [
+      "Nursing Notes",
+      "Patient-wise Records Management",
+      "Diagnostics Report Management",
+      "PACS/DICOM Viewer for Radiology Labs – uses HL7 protocol"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-heartbeat",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-transgender",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-mars-stroke",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-male",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I recently found myself under your care for a cardiac issue. While there, accompanied by my wife, we found that the entire staff at ABC Hospital was exceedingly professional and efficient, from your E.R. receptionists to the cardiac care team.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"On behalf of my wife, who was a patient in your hospital, I humbly submit my sincere gratitude to the management and staff of Jamaica Hospital, especially to your outstanding nurses and PCAs. They have been outstandingly helpful and provided a high quality of service, care and comfort to my wife. Thank you.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I was recently cared for at ABC Hospital following a heart attack while at JFK. I just wanted to say a few words about the exceptional care I received in the Jamaica Hospital Cardiac Care Unit and the MICU. All of the doctors and nurses were friendly, pleasant, kind, thorough, conscientious and professional. I am happy to have been in their care.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"I am writing on behalf of my brother who was a patient in your hospital. I would like to thank you on behalf of my entire family for the help and consideration shown to me in what was a very difficult time. Again, I would like to thank you for the services you provide to patients and their families.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I am writing this letter to thank everyone at your wonderful hospital for the excellent care that was given to me. Within minutes of arriving in the emergency room I was treated for what was diagnosed as a mild stroke. I want to thank the entire staff for the kind and caring assistance I received, including the security guards, ER staff, and the doctors, nurses and aides on the third floor. Everyone!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I was admitted to ABC Hospital’s Labor and Delivery Unit and I am writing this letter to inform you of my experience.I was very nervous entering the emergency room. My nervousness was reduced when I was greeted with several smiles from your staff.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "HOD Cardiology"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "HOD Oncology"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "HOD Dermatology"
+    }
+  ],
+  "Contact": {
+    "address": "Arrah Shibtala,Kolkata-700094,WB,IN ",
+    "phone": "+91 987 654 3210",
+    "email": "info@company.com",
+    "facebook": "https://www.facebook.com/login/",
+    "twitter": "https://twitter.com/i/flow/login",
+    "youtube": "https://www.youtube.com/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-users",
+      "title": "Inventory Management",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-eye",
+      "title": "Near Real-time Bed Status",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-forumbee",
+      "title": "NABH Compliance for Hospitals",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "NABL Compliance for Diagnostics LABS",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-file",
+      "title": "Centralized Billing with Pharmacy module",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-flickr",
+      "title": "Prescription Management",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-bitbucket",
+      "title": "Diagnostics Report Management",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-gittip",
+      "title": "Patient-wise Records Management",
+      "text": ""
+    }
+  ],
+  "Book Appoinment": []
+}
