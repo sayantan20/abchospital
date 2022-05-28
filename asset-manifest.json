@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abchospital/static/css/main.ae42ac5f.css",
+    "main.js": "/abchospital/static/js/main.4935e367.js",
+    "index.html": "/abchospital/index.html",
+    "main.ae42ac5f.css.map": "/abchospital/static/css/main.ae42ac5f.css.map",
+    "main.4935e367.js.map": "/abchospital/static/js/main.4935e367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.4935e367.js"
+  ]
+}
